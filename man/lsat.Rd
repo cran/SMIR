@@ -22,16 +22,15 @@
     \item{\code{wt7}}{a numeric vector}
   }
 }
-\details{
-}
-\source{Bock, R. and Leiberman, M. (1970) "Fitting a response model for
-  a $n$ dichotomoously scored items." \emph{Psychometrika}, \bold{35}, 179--197.
+\source{Bock, R. and Leiberman, M. (1970), "Fitting a response model for
+  a $n$ dichotomously scored items." \emph{Psychometrika}, \bold{35}, 179--197.
 }
 \references{Bock, R. D. and Aitkin, M. (1981). "Marginal maximum
   likelihood estimation of item parameters: An application of an EM
   algorithm." \emph{Pyschometrika}, \bold{46}, 443--459.
 
-}
+  }
+  \note{See p.547 in SMIR}
 \examples{
 data(lsat)
 }

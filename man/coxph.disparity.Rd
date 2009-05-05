@@ -1,4 +1,4 @@
-\name{coxph.disparity.R}
+\name{coxph.disparity}
 \alias{coxph.disparity}
 \title{Check disparity in a Cox Proportional Hazard Model}
 \description{The coxph.disparity() function returns the disparity from the

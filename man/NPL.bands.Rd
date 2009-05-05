@@ -8,14 +8,11 @@
   \item{x}{a numeric vector}
   \item{conf.level}{Either 0.95 (default) or 0.99}
 }
-\details{}
-
 \value{
   \item{x}{The unique values of x}
   \item{lower}{The lower bound}
   \item{upper}{The upper bound}
 }
-\references{}
 \author{\email{ross.darnell@csiro.au}}
 \examples{
 ### Empirical distribution of a gamma variable

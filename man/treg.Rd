@@ -1,13 +1,13 @@
 \name{treg}
 \alias{treg}
 \title{t-regression model fit}
-\description{Robust regression by modelling errors as t-distributed with
+\description{Robust regression by modelling errors as $t$-distributed with
 known degrees of freedom rather than normal}
 \usage{treg(lm.object, r, verbose=TRUE)}
 \arguments{
   \item{lm.object}{An object of class "lm"}
   \item{r}{a vector of degrees of freedom}
-  \item{verbose}{TRUE prints estimates for -2 log likelihood, sigma, and
+  \item{verbose}{TRUE prints estimates for $-2 X $ log likelihood, sigma, and
   r at each interation.}
 }
 \value{an object of class ``treg''

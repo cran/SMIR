@@ -14,7 +14,7 @@ they had filled out the questionnaire incorrectly, and were instructed
 to fill it out again.  A second hostility score was then calculated
 from these later responses.
 }
-\usage{insult}
+\usage{data(insult)}
 \format{A data.frame of 19 obs. of 3 variables:
   \tabular{rll}{
  [,1]\tab hbefore\tab integer, hostility score before verbal attack\cr
@@ -25,5 +25,5 @@ from these later responses.
 \source{Erickson, B. H. and Nosanchuk, T. A., (1979). \emph{Understanding Data},
   Milton Keynes, UK, Open University Press, UK.
 }
-\references{}
+\note{See pages 5 and 17 of SMIR}
 \keyword{datasets}

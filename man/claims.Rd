@@ -14,7 +14,7 @@ cities), \code{car}, the engine capacity of the car (1: $<$ 1 litre, 2:
 the age of the policyholder (1: $<$ 25, 2: 25 -- 29, 3: 30 -- 35, 4: $>$
 35)
 }
-\usage{claims}
+\usage{data(claims)}
 \format{
   \tabular{rll}{
      [,1]\tab n   \tab integer, number of policy holders\cr
@@ -26,10 +26,9 @@ the age of the policyholder (1: $<$ 25, 2: 25 -- 29, 3: 30 -- 35, 4: $>$
 }
 }
 \source{
-  Baxter, L.A. and Coutts, S.M. and Ross, G.A.F., 1980,
-  "Application of linear models in motor insurance",\emph{Proceedings of
+  Baxter, L.A., Coutts, S.M. and Ross, G.A.F., 1980,
+  "Application of linear models in motor insurance", \emph{Proceedings of
     the 21st International Congress of Actuaries}, Zurich, 11--29.
 }
-\references{
-}
+\note{See p.271 in SMIR}
 \keyword{datasets}

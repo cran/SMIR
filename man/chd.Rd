@@ -11,7 +11,7 @@ were recorded for each man, and are reported in one of four
 categories, giving a 4X4 cross-classified in each cell of
 which the number  of men with CHD and the total number
 of men examined are given.}
-\usage{chd}
+\usage{data(chd)}
 \format{A data.frame of 16 obs. of 4 variables:
   \tabular{rll}{
     [,1] \tab chol \tab Factor w/ 4 levels "<200","200-219",...\cr
@@ -22,8 +22,7 @@ of men examined are given.}
   }
   \source{Ku, H.H. and Kullback, S. (1974),
     "Loglinear models in contingency table analysis",
-    \emph{The American Statistician}, \bold{28}, 115--22.
+     \emph{The American Statistician}, \bold{28}, 115--22.
  }
-\references{
-}
+\note{See p.248 in SMIR}
 \keyword{datasets}

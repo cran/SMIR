@@ -8,7 +8,7 @@
   recorded. Participants were paired according to remission status, an
   aspect not described in Gehan (1965).
 }
-\usage{gehan}
+\usage{data(gehan)}
 \format{A dataframe containing 42 obs. of 5 variables:
   \tabular{rll}{
     [1,] \tab pair \tab numeric defining pair according to remission
@@ -20,10 +20,10 @@
     [4,]\tab treat \tab factor w/ 2 levels "6-MP", "control"\cr
 }}
 \source{
-   Gehan, E. A. (1965). "A generalized Wilcoxon test for comparing
+   Gehan, E. A. (1965), "A generalized Wilcoxon test for comparing
                   arbitrarily singly-censored samples",
 		  \emph{Biometrika},
 		  \bold{52}, 203--233.
  }
-\references{}
+\note{See Ch. 6 of SMIR}
  \keyword{survival}

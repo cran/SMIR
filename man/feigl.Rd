@@ -13,7 +13,7 @@
   and negative values if both Auer rods and granulature are
   absent.
 }
-\usage{feigl}
+\usage{data(feigl)}
 \format{A data.frame of 33 obs. of 3 variables:
   \tabular{rll}{
     [,1] \tab wbc\tab numeric, white blood cell count in thousands\cr
@@ -25,5 +25,5 @@
                   concomitant information",
 \emph{Biometrics}, \bold{21}, 826--38.
 }
-\references{}
+\note{See Ch.6 of SMIR}
 \keyword{datasets}

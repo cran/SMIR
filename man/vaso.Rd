@@ -9,6 +9,7 @@ inspired by human subjects on the occurrence  or
 non-occurrence  of a transient vasoconstriction response in the skin of
 the fingers.
 }
+\usage{data(vaso)}
 \format{A data.frame of 39 obs. of 4 variables:
   \tabular{rll}{
     [,1] \tab  Subject\tab Factor w/ 3 levels "1","2","3", ...\cr
@@ -23,4 +24,5 @@ the fingers.
 		  response", \emph{Biometrika}, \bold{34}, 320--34.}
 \references{Gilliatt, R.W. (1948). "Vaso-constriction in the finger
   after deep inspiration", \emph{J. Physiol.}, \bold{107}, 76--88.}
+\note{See p.209 in SMIR}
 \keyword{datasets}

@@ -14,7 +14,7 @@ diagnosis to starting on the study; a factor prior therapy
 2 test) and a factor tumour type (1 squamous, 2 small, 3
 adeno, 4 large).  There are three censored observations.
 }
-\usage{prentice}
+\usage{data(prentice)}
 \format{A data.frame of 137 obs. of 8 variables:
   \tabular{rll}{
     [,1] \tab  treat \tab  integer, 1= standard, 2= test\cr
@@ -30,5 +30,5 @@ adeno, 4 large).  There are three censored observations.
 \source{Prentice, R. L. (1973), "Exponential survivals with censoring
   and explanatory variables", \emph{Biometrika}, \bold{60}, 279--88.
   }
-\references{}
+\note{See p.414 in SMIR}
 \keyword{datasets}

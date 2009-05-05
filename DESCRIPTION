@@ -1,8 +1,8 @@
 Package: SMIR
 Type: Package
-Title: Companion to \emph{Statistical Modelling in R}
-Version: 0.01
-Date: 2009-5-01
+Title: Companion to Statistical Modelling in R
+Version: 0.02
+Date: 2009-5-05
 Author: Murray Aitkin, Brian Francis, John Hinde, Ross Darnell
         <ross.darnell@csiro.au>
 Maintainer: Ross Darnell <ross.darnell@csiro.au>
@@ -15,6 +15,6 @@ Description: This package accompanies Aitkin et al, Statistical
         Modelling in R, OUP, 2009. The package contains some functions
         and datasets used in the text.
 License: GPL (>= 2)
-Packaged: 2009-05-04 04:54:20 UTC; dar143
+Packaged: 2012-10-29 08:57:40 UTC; ripley
 Repository: CRAN
-Date/Publication: 2009-05-04 10:17:37
+Date/Publication: 2012-10-29 08:57:40

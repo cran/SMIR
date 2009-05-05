@@ -9,7 +9,7 @@
   \item{model}{an object as returned by 'lm'}
 }
 \references{Aitkin, M., Francis, B., Hinde, J. and Darnell, R. (2009).
-  \emph{Statistical modelling in R}, UOP.}
+  \emph{Statistical Modelling in R}, UOP.}
 \examples{
 data(trees)
 R2CV(lm(v ~ d + h, data=trees))

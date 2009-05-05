@@ -15,17 +15,20 @@ The policies were:
 A:   The US should defeat the power of North Vietnam by
      widespread bombing of its industries, ports and
      harbours and by land invasion.}
+   
 \code{
-B:   The US should follow the present policy in Vietnam.}
+  B:   The US should follow the present policy in Vietnam.}
+
 \code{
 C:   The US should de-escalate its military activity,
      stop bombing North Vietnam, and intensify its efforts
      to begin negotiation.}
+   
 \code{
 D:   The US should withdraw its military forces from Vietnam
      immediately.}
 }
-\usage{vietnam}
+\usage{data(vietnam)}
 \format{A data.frame of 40 obs. of 4 variables:
   \tabular{rll}{
   [,1] \tab  policy\tab  Factor w/ 4 levels "A","B","C","D"\cr
@@ -37,5 +40,5 @@ D:   The US should withdraw its military forces from Vietnam
 \source{Aitkin, M. (1996). "A short history of a Vietnam War attitude
                   survey.", \emph{Stats}, \bold{17}, 1--9.
   }
-\references{}
+\note{See p.310 in SMIR}
 \keyword{datasets}

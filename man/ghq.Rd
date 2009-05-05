@@ -16,7 +16,7 @@
   The patient was classified by the psychiatrist as either a ``case'',
   requiring psychiatric treatment, or a ``non-case''.  
 }
-\usage{ghq}
+\usage{data(ghq)}
 \format{
   \tabular{rll}{
     [,1]\tab sex\tab Factor w/ 2 levels "men","women"\cr
@@ -30,6 +30,5 @@
   likelihood estimators for the binomial response model",
   \emph{J. Roy. Statist. Soc. B.}, \bold{43}, 310--13.
   }
-\references{
-}
+\note{See p.235 in SMIR}
 \keyword{datasets}

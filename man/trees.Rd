@@ -17,8 +17,8 @@ above the ground.
   }
 }
 \source{Ryan, T. and Joiner, B. and Ryan, B., (1976). \emph{Minitab
-    students handbook}, Duxbury Press, North Scituate, Mass
+    Students Handbook}, Duxbury Press, North Scituate, Mass
   }
-\usage{trees}
-\references{}
+\usage{data(trees)}
+\note{See pp.126 and 191 in SMIR}
 \keyword{datasets}

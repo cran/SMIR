@@ -26,7 +26,7 @@ were all born in the Kaiser Foundation Hospital, Oakland, California,
 between 1 April 1961 and 15 April 1963. The Census does not cover any other 
 children who may also have existed in these families. 
 }
-\usage{statlab}
+\usage{data(statlab)}
 \format{A data.frame of 1296 obs. of 34 variables:
   \tabular{rll}{
      [,] \tab  id        \tab integer, \cr
@@ -65,8 +65,7 @@ children who may also have existed in these families.
  [,] \tab  sex       \tab Factor w/ 2 levels "boy","girl"
     }
 }
-\source{Hodges, J.L. Krech, D. and Crutchfield,
+\source{Hodges, J.L., Krech, D. and Crutchfield,
   R.S. (1975). \emph{StatLab: An Empirical Introduction to Statistics}, McGraw-Hill Ryerson, Toronto  }
-\references{
-}
+\note{See pp.31 and 443 in SMIR}
 \keyword{datasets}

@@ -9,7 +9,7 @@ the conversion of ammonia to nitric acid, with three explanatory
 variables: air flow(\code{x1}), cooling water inlet
 temperature(\code{x2})  and acid concentration(\code{x3}).
 }
-\usage{stackloss}
+\usage{data(stackloss)}
 \format{A data.frame of 21 obs. of 4 variables:
   \tabular{rll}{
     [,1] \tab  y \tab integer, loss of acid through the stack \cr
@@ -20,7 +20,7 @@ temperature(\code{x2})  and acid concentration(\code{x3}).
 }
 \source{Lange, K L and Little, R J A and Taylor, J M G, (1989). "Robust
   statistical modeling using the $t$ distribution", \emph{J Amer Statist
-  Assoc},\bold{84}, 881--896.
+  Assoc}, \bold{84}, 881--896.
  }
-\references{}
+\note{See p.469 of SMIR}
 \keyword{datasets}

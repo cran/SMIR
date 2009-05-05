@@ -23,15 +23,12 @@
     \item{\code{nation}}{a factor with levels \code{Australian} \code{British}}
   }
 }
-\details{
-}
 \source{
-Bennett, M. D. (1974). \emph{The emotional response of husbands to suicide
-  attempts by their wives}, Sydney University,
+Bennett, M. D. (1974). \emph{The Emotional Response of Husbands to Suicide
+  Attempts by Their Wives}, Sydney University,
 Unpublished MD thesis.
 }
-\references{
-}
+\note{See p.168 of SMIR}
 \examples{
 data(hostility)
 ## maybe str(hostility)

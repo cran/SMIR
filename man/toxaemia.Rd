@@ -16,13 +16,11 @@ classified as Yes or No) during pregnancy.
     \item{\code{count}}{a numeric vector}
   }
 }
-\details{}
 \source{
 Brown, P.J., Stone, J., and Ord-Smith, C. (1983). Toxaemic signs during
 pregnancy. \emph{Applied Statistics}, \bold{32}, 69--72.
  }
-\references{
-}
+\note{See p.330 in SMIR}
 \examples{
 data(toxaemia)
 tox.prop.table1 <- with(toxaemia, prop.table(tapply(count,

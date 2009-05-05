@@ -8,7 +8,7 @@ fuel consumption in miles per (US) gallon  for 32 cars tested by the US
 number of cylinders, transmission type, number of gears, engine displacement in cubic
 inches, horsepower, number of carburettor barrels, final drive ratio, and weight of the car in thousands of pounds.
 }
-\usage{cars}
+\usage{data(cars)}
 \format{A data.frame of 32 obs. of 11 variables:
   \tabular{rll}{
     [,1] \tab  s   \tab integer, shape of engine (straight = 1, vee = 0)\cr
@@ -26,7 +26,7 @@ inches, horsepower, number of carburettor barrels, final drive ratio, and weight
   [,12] \tab model \tab Factor w/ 32 levels "AMC Javelin"...:18 19 ...\cr
 }}
 \source{Henderson, H.V. and Velleman, P.F. (1981), "Building multiple
-  regression models interactively",\emph{Biometrics}, \bold{37}, 391--411.
+  regression models interactively", \emph{Biometrics}, \bold{37}, 391--411.
 }
-\references{}
+\note{See p.144 in SMIR}
 \keyword{datasets}

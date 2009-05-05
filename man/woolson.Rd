@@ -5,7 +5,7 @@
 \description{
 This is a subset of the Obesity dataset. Binary indicators of obesity on
 1014 children who were 7-9 years old in 1977, and were followed up in
-1979 and 1981. Children were classified as obese their weights were more
+1979 and 1981. Children were classified as obese if their weights were more
 than 210\% of the population median weight for their gender and height.
 }
 \usage{data(woolson)}
@@ -18,15 +18,11 @@ than 210\% of the population median weight for their gender and height.
     \item{\code{age}}{a numeric vector}
   }
 }
-\details{
-
-}
 \source{
 Woolson, R.F. and Clark, W.R.(1984). Analysis of categorical incomplete longitudinal
 data. \emph{JRSS A}. \bold{147}, 87--99.
 }
-\references{
-}
+\note{See p.539 in SMIR}
 \examples{
 data(woolson)
 }

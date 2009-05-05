@@ -23,7 +23,7 @@ measures the extent to which subjects can abstract the essential
 logical structure of a problem from its context (high scores
 corresponding to high field dependence and low ability).
 }
-\usage{solv}
+\usage{data(solv)}
 \format{A data.frame of 24 obs. of 4 variables:
   \tabular{rll}{
  [,1] \tab  child \tab  integer, child id\cr
@@ -32,8 +32,8 @@ corresponding to high field dependence and low ability).
  [,4] \tab  eft   \tab  integer, EFT score
 }
 }
-\source{Aitkin, M. and Francis, B. and Hinde, J. (2005),
-  \emph{Statistical Modelling in GLIM 4}, Oxford University Press, UK
+\source{Aitkin, M. Anderson, D., Francis, B. and Hinde, J. (1981),
+  \emph{Statistical Modelling in GLIM}, Oxford University Press
   }
-\references{}
+\note{See p.97 of SMIR}
 \keyword{datasets}

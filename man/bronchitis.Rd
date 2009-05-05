@@ -6,12 +6,12 @@
   The data consist of observations on three variables
 for each of 212 men in a sample of Cardiff enumeration districts.
 }
-\usage{bronchit}
+\usage{data(bronchit)}
 \format{A data.frame of 212 obs of 3 variables:
   \tabular{rll}{
     [,1] \tab r \tab integer, 1= respondent suffered from chronic bronchitis \cr
     [,2] \tab cig \tab numeric, the number of cigarettes per day\cr
-    [,3] \tab poll \tab numeric, the smoke level in the locality\cr    
+    [,3] \tab poll \tab numeric, the smoke level in the locality
     }
   }
 \source{Jones, K. (1975), \emph{A geographical contribution to the aetiology of
@@ -21,5 +21,5 @@ for each of 212 men in a sample of Cardiff enumeration districts.
 		  logit models in geography}, Geo.Abstracts Ltd, CATMOG
 		10, University of East Anglia, Norwich.
 	      }
-\references{}
+\note{See p.224 in SMIR}
 \keyword{datasets}

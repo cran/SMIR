@@ -8,7 +8,7 @@ varying intercept term.
  The data consist of numbers $y$ of trypanosomes killed out
 of $n$ treated at a treatment dose $x$.
 }
-\usage{trypanos}
+\usage{data(trypanos)}
 \format{
   A data frame with 8 observations on the following 3 variables.
   \describe{
@@ -17,14 +17,11 @@ of $n$ treated at a treatment dose $x$.
     \item{\code{y}}{a numeric vector}
   }
 }
-\details{
-}
 \source{
 Follman, D.A. and Lambert, D. (1989). Generalizing logistic regression by nonparametric
 mixing. \emph{Journal of the American Statistical Association}, \bold{84}, 295--300.
 }
-\references{
-}
+\note{See p.500 in SMIR}
 \examples{
  data(trypanos)
  library(npmlreg)
